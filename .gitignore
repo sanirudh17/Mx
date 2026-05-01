@@ -1,0 +1,11 @@
+node_modules/
+dist/
+out/
+build_log.txt
+debug_log.txt
+typescript_check.txt
+typescript_errors.txt
+winCodeSign.7z
+*.mjs
+.env
+.DS_Store
